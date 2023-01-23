@@ -8,3 +8,5 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 
 [Write and Explain A Progam: The Moves of Dancer.](https://youtu.be/tpH4PGiPmCY)
 
+[Scratch!](https://youtu.be/tpH4PGiPmCY)
+
