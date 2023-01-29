@@ -10,3 +10,5 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 
 [Scratch!](https://youtu.be/tpH4PGiPmCY)
 
+[Write and Explain a Program: Nested Repeats.](https://youtu.be/r4mTdOckXj8)
+
