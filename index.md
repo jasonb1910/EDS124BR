@@ -12,3 +12,5 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 
 [Write and Explain a Program: Nested Repeats.](https://youtu.be/r4mTdOckXj8)
 
+[Write and Explain a Program: Events Concept.](https://youtu.be/DcACNDWJwnU)
+
