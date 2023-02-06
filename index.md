@@ -4,13 +4,16 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 
 # *EDS 124BR - Winter 2023:*
 
-[Explanation Code](https://youtu.be/8D8ew2vNJBI).
+### [Explanation Code](https://youtu.be/8D8ew2vNJBI).
 
-[Write and Explain A Progam: The Moves of Dancer.](https://youtu.be/tpH4PGiPmCY)
+### [Write and Explain A Progam: The Moves of Dancer.](https://youtu.be/tpH4PGiPmCY)
 
-[Scratch!](https://youtu.be/tpH4PGiPmCY)
+### [Scratch!](https://youtu.be/tpH4PGiPmCY)
 
-[Write and Explain a Program: Nested Repeats.](https://youtu.be/r4mTdOckXj8)
+### [Write and Explain a Program: Nested Repeats.](https://youtu.be/r4mTdOckXj8)
 
-[Write and Explain a Program: Events Concept.](https://youtu.be/DcACNDWJwnU)
+### [Write and Explain a Program: Events Concept.](https://youtu.be/DcACNDWJwnU)
+
+### [Write and Explain a Program: Variables.](https://youtu.be/dLkGVYL64mQ)
+
 
