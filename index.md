@@ -16,4 +16,5 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 
 ### [Write and Explain a Program: Variables.](https://youtu.be/dLkGVYL64mQ)
 
+### [Write and Explain a Program: Conditional Repeat.](https://youtu.be/dtX1j1BZqy0)
 
