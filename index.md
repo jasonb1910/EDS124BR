@@ -18,3 +18,4 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 
 ### [Write and Explain a Program: Conditional Repeat.](https://youtu.be/dtX1j1BZqy0)
 
+### [Write and Explain a Program: If-Else Condition.](https://youtu.be/lW6NWgecklc)
