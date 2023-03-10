@@ -23,3 +23,5 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 ### [Write and Explain a Program: Nested If-Else Condition.](https://youtu.be/wpXkGS9vm3s)
 
 ### [Write and Explain a Program: Compound Condition.](https://youtu.be/atSgqq3FfOM)
+
+### [Write and Explain a Program: Abstraction.](https://youtu.be/s5f38347TRw)
