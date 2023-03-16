@@ -25,3 +25,5 @@ Hi, I'm Jason, a third-year student in Computer Science major.
 ### [Write and Explain a Program: Compound Condition.](https://youtu.be/atSgqq3FfOM)
 
 ### [Write and Explain a Program: Abstraction.](https://youtu.be/s5f38347TRw)
+
+### [Write and Explain a Program: The List.](https://youtu.be/8XxxtOzoMfs)
